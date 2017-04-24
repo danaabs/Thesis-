@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/danaabrassart/Documents/Thesis/NOTCH/Tutorial/app/build/intermediates/incremental-runtime-classes/mock/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/danaabrassart/Documents/Thesis/NOTCH/Tutorial/app/build/intermediates/transforms/dex/mock/debug/folders/1000/10000/instant-run_8e26cb7eee9d8bd226e7cdd285e31b707b868631/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danaabrassart/Documents/Thesis/NOTCH/Tutorial/app/build/intermediates/incremental-classes/mock/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f843d122d4a35e3254227c32670908f0a693f97">
+        <dex dex="/Users/danaabrassart/Documents/Thesis/NOTCH/Tutorial/app/build/intermediates/transforms/dex/mock/debug/folders/1000/10000/instant-run-bootstrap_4eaf216fe126c838ad6b4fee680b70f5209fa8df/classes.dex" />
+    </item>
+
+</items>

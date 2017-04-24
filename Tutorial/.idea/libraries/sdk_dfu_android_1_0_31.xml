@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sdk-dfu-android-1.0.31">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/8baec411d79960a006513dd181a5dd5c828ead0a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8baec411d79960a006513dd181a5dd5c828ead0a/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
